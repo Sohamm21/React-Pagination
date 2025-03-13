@@ -1,10 +1,10 @@
 # React Pagination
 
 #### Simple pagination component
-Can be used for frontend pagination just add the number of pages required and the total count per pages.
+Can be used for frontend pagination just add the number of pages required and the total count per page.
 
-![Pagination]([image_url](https://i.imgur.com/nmeA6ya.png))
+![Pagination](https://i.imgur.com/nmeA6ya.png)
 
-![Pagination Small]([image_url](https://i.imgur.com/prWS2lM.png))
+![Pagination Small](https://i.imgur.com/prWS2lM.png)
 
-![Pagination Large]([image_url](https://i.imgur.com/JJSxjpD.png))
+![Pagination Large](https://i.imgur.com/JJSxjpD.png)
