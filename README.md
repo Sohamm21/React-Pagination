@@ -7,4 +7,4 @@ Can be used for frontend pagination just add the number of pages required and th
 
 ![Pagination Small]([image_url](https://drive.google.com/file/d/1EiJNbrt9iBQgisqmW5p5tzdY9QPcTvrX/view?usp=drive_link))
 
-![Pagination Large]([image_url]([https://drive.google.com/file/d/1G_hJT9tJEh19gdtdJHyYdOMy9SBIapzu/view?usp=drive_link](https://drive.google.com/file/d/1G_hJT9tJEh19gdtdJHyYdOMy9SBIapzu/view?usp=sharing)))
+![Pagination Large]([image_url](https://drive.google.com/uc?export=view&id=1G_hJT9tJEh19gdtdJHyYdOMy9SBIapzu))
